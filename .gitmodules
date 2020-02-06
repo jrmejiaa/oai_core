@@ -1,3 +1,6 @@
 [submodule "openair-CoreNetwork_EPC"]
 	path = openair-CoreNetwork_EPC
 	url = https://github.com/OPENAIRINTERFACE/openair-cn.git
+[submodule "openair-cn-cups"]
+	path = openair-cn-cups
+	url = https://github.com/OPENAIRINTERFACE/openair-cn-cups.git
