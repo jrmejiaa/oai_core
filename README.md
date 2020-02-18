@@ -1,9 +1,6 @@
 # OpenAirInterface (OAI)
 The purpose of this wiki is to include all the important information about the use of the interface Open Air Interface to make a EPC Component, because the project has different places of relevant documentation to solve this problem. Here it would be include the useful information about how install all the needed packages and examples of how it should be used. 
 
-![SVG Diagram](./EPC-RAN_Connection.svg)
-<img src="./EPC-RAN_Connection.svg">
-
 ## 1. Introduction
 OpenAirInterfaceTM (OAI) wireless technology platform is a flexible platform towards an open LTE ecosystem. The platform offers an open-source software-based implementation of the LTE system spanning the full protocol stack of 3GPP standard both in E-UTRAN and EPC. It can be used to build and customize  a LTE base station (OAI eNB), a user equipment (OAI UE) and a **core network (OAI EPC) on a PC**. The OAI eNB can be connected either to a commercial UEs or OAI UEs to test different configurations and network setups and monitor the network and mobile device in real-time. In addition, OAI UE can be connected to eNB test equipment (CMW500) and some trials have been successively run with commercial eNB in December 2016.
 
