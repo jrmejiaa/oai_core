@@ -1,0 +1,589 @@
+[2020-02-06T15:22:25.941] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-06T15:22:25.941] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-06T15:22:25.941] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-06T15:22:26.513] [hss] [system] [info] COUNT: 1 IMSI:  KEY: €•°ùŞU OPC: 0¢°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.537] [hss] [system] [info] COUNT: 2 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.545] [hss] [system] [info] COUNT: 3 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.548] [hss] [system] [info] COUNT: 4 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.554] [hss] [system] [info] COUNT: 5 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.559] [hss] [system] [info] COUNT: 6 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.561] [hss] [system] [info] COUNT: 7 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.563] [hss] [system] [info] COUNT: 8 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.565] [hss] [system] [info] COUNT: 9 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.568] [hss] [system] [info] COUNT: 10 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.576] [hss] [system] [info] COUNT: 11 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.579] [hss] [system] [info] COUNT: 12 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.582] [hss] [system] [info] COUNT: 13 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.599] [hss] [system] [info] COUNT: 14 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.604] [hss] [system] [info] COUNT: 15 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.606] [hss] [system] [info] COUNT: 16 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.609] [hss] [system] [info] COUNT: 17 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.613] [hss] [system] [info] COUNT: 18 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.615] [hss] [system] [info] COUNT: 19 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:22:26.622] [hss] [system] [info] COUNT: 20 IMSI:  KEY: @œ°ùŞU OPC: €•°ùŞU NEW OPC: 
+[2020-02-06T15:29:55.825] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-06T15:29:55.825] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-06T15:29:55.825] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-06T15:29:55.927] [hss] [system] [info] COUNT: 1 IMSI: ğüFı KEY: €å½ïV OPC: 0ò½ïV NEW OPC: 
+[2020-02-06T15:29:55.933] [hss] [system] [info] COUNT: 2 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.935] [hss] [system] [info] COUNT: 3 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.938] [hss] [system] [info] COUNT: 4 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.941] [hss] [system] [info] COUNT: 5 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.943] [hss] [system] [info] COUNT: 6 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.946] [hss] [system] [info] COUNT: 7 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.953] [hss] [system] [info] COUNT: 8 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.955] [hss] [system] [info] COUNT: 9 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.957] [hss] [system] [info] COUNT: 10 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.960] [hss] [system] [info] COUNT: 11 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.964] [hss] [system] [info] COUNT: 12 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.972] [hss] [system] [info] COUNT: 13 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.975] [hss] [system] [info] COUNT: 14 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.979] [hss] [system] [info] COUNT: 15 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.986] [hss] [system] [info] COUNT: 16 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.988] [hss] [system] [info] COUNT: 17 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:55.996] [hss] [system] [info] COUNT: 18 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:56.005] [hss] [system] [info] COUNT: 19 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T15:29:56.009] [hss] [system] [info] COUNT: 20 IMSI: ğüFı KEY: @ì½ïV OPC: €å½ïV NEW OPC: 
+[2020-02-06T17:10:32.839] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-06T17:10:32.839] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-06T17:10:32.839] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-06T17:10:33.384] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-06T17:10:33.384] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-06T17:10:33.384] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-06T17:10:33.384] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-06T17:10:33.387] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-06T17:10:33.387] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-06T17:10:52.604] [hss] [system] [startup] Caught signal (2)
+[2020-02-06T17:10:52.604] [hss] [system] [startup] Setting shutdown event
+[2020-02-06T17:10:52.604] [hss] [system] [startup] exiting
+[2020-02-09T10:49:53.195] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T10:49:53.195] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T10:49:53.195] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T10:49:54.146] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-09T10:49:54.146] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-09T10:49:54.146] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-09T10:49:54.146] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-09T10:49:54.147] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-09T10:49:54.147] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-09T10:50:10.736] [hss] [system] [startup] Caught signal (2)
+[2020-02-09T10:50:10.736] [hss] [system] [startup] Setting shutdown event
+[2020-02-09T10:50:10.736] [hss] [system] [startup] exiting
+[2020-02-09T11:11:16.229] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T11:11:16.229] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T11:11:16.229] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T11:11:16.401] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-09T11:11:16.401] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-09T11:11:16.401] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-09T11:11:16.401] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-09T11:11:16.402] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-09T11:11:16.402] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-09T11:12:29.743] [hss] [system] [startup] Caught signal (2)
+[2020-02-09T11:12:29.743] [hss] [system] [startup] Setting shutdown event
+[2020-02-09T11:12:29.743] [hss] [system] [startup] exiting
+[2020-02-09T11:13:18.413] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T11:13:18.413] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T11:13:18.413] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T11:13:18.556] [hss] [system] [info] COUNT: 1 IMSI: p6å˜ş KEY: €ÅÒó­U OPC: 0ÒÒó­U NEW OPC: 
+[2020-02-09T11:13:18.575] [hss] [system] [info] COUNT: 2 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.578] [hss] [system] [info] COUNT: 3 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.580] [hss] [system] [info] COUNT: 4 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.582] [hss] [system] [info] COUNT: 5 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.586] [hss] [system] [info] COUNT: 6 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.589] [hss] [system] [info] COUNT: 7 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.592] [hss] [system] [info] COUNT: 8 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.594] [hss] [system] [info] COUNT: 9 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.596] [hss] [system] [info] COUNT: 10 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.599] [hss] [system] [info] COUNT: 11 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.602] [hss] [system] [info] COUNT: 12 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.605] [hss] [system] [info] COUNT: 13 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.620] [hss] [system] [info] COUNT: 14 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.622] [hss] [system] [info] COUNT: 15 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.625] [hss] [system] [info] COUNT: 16 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.627] [hss] [system] [info] COUNT: 17 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.630] [hss] [system] [info] COUNT: 18 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.637] [hss] [system] [info] COUNT: 19 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T11:13:18.641] [hss] [system] [info] COUNT: 20 IMSI: p6å˜ş KEY: @ÌÒó­U OPC: €ÅÒó­U NEW OPC: 
+[2020-02-09T17:31:44.145] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T17:31:44.145] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T17:31:44.145] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T17:31:44.410] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-09T17:31:44.410] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-09T17:31:44.410] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-09T17:31:44.410] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-09T17:31:44.412] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-09T17:31:44.412] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-09T17:31:50.960] [hss] [system] [startup] Caught signal (2)
+[2020-02-09T17:31:50.960] [hss] [system] [startup] Setting shutdown event
+[2020-02-09T17:31:50.960] [hss] [system] [startup] exiting
+[2020-02-09T17:54:18.001] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T17:54:18.001] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T17:54:18.001] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T17:54:18.278] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-09T17:54:18.278] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-09T17:54:18.278] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-09T17:54:18.278] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-09T17:54:18.280] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-09T17:54:18.280] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-09T17:54:20.923] [hss] [system] [startup] Caught signal (2)
+[2020-02-09T17:54:20.923] [hss] [system] [startup] Setting shutdown event
+[2020-02-09T17:54:20.923] [hss] [system] [startup] exiting
+[2020-02-09T19:48:11.838] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T19:48:11.838] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T19:48:11.838] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T19:48:12.446] [hss] [system] [info] COUNT: 1 IMSI:  Æİ¹ÿ KEY: @(·²ŠU OPC: ğ4·²ŠU NEW OPC: À4·²ŠU
+[2020-02-09T19:49:00.501] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T19:49:00.501] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T19:49:00.501] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T19:49:00.774] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-09T19:49:00.774] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-09T19:49:00.774] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-09T19:49:00.775] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-09T19:49:00.776] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-09T19:49:00.777] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-09T19:49:09.069] [hss] [system] [startup] Caught signal (2)
+[2020-02-09T19:49:09.069] [hss] [system] [startup] Setting shutdown event
+[2020-02-09T19:49:09.069] [hss] [system] [startup] exiting
+[2020-02-09T20:48:19.849] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T20:48:19.849] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T20:48:19.849] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T20:48:20.090] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-09T20:48:20.090] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-09T20:48:20.090] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-09T20:48:20.090] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-09T20:48:20.092] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-09T20:48:20.092] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-09T20:52:26.394] [hss] [system] [startup] Caught signal (2)
+[2020-02-09T20:52:26.394] [hss] [system] [startup] Setting shutdown event
+[2020-02-09T20:52:26.394] [hss] [system] [startup] exiting
+[2020-02-09T20:58:10.960] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T20:58:10.960] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T20:58:10.960] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T20:58:11.093] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-09T20:58:11.094] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-09T20:58:11.094] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-09T20:58:11.094] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-09T20:58:11.095] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-09T20:58:11.095] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-09T21:23:53.535] [hss] [system] [startup] Caught signal (2)
+[2020-02-09T21:23:53.535] [hss] [system] [startup] Setting shutdown event
+[2020-02-09T21:23:53.535] [hss] [system] [startup] exiting
+[2020-02-09T21:52:40.204] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-09T21:52:40.204] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-09T21:52:40.204] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-09T21:52:40.344] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-09T21:52:40.345] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-09T21:52:40.345] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-09T21:52:40.345] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-09T21:52:40.347] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-09T21:52:40.347] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-09T22:01:30.046] [hss] [system] [startup] Caught signal (2)
+[2020-02-09T22:01:30.046] [hss] [system] [startup] Setting shutdown event
+[2020-02-09T22:01:30.046] [hss] [system] [startup] exiting
+[2020-02-11T13:09:02.657] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-11T13:09:02.657] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-11T13:09:02.657] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-11T13:09:03.551] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-11T13:09:03.551] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-11T13:09:03.551] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-11T13:09:03.552] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-11T13:09:03.553] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-11T13:09:03.553] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-11T13:10:27.317] [hss] [system] [startup] Caught signal (2)
+[2020-02-11T13:10:27.317] [hss] [system] [startup] Setting shutdown event
+[2020-02-11T13:10:27.318] [hss] [system] [startup] exiting
+[2020-02-11T13:10:28.908] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-11T13:10:28.908] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-11T13:10:28.908] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-11T13:10:29.027] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-11T13:10:29.027] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-11T13:10:29.027] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-11T13:10:29.027] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-11T13:10:29.027] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-11T13:10:29.028] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-11T13:12:04.756] [hss] [system] [startup] Caught signal (2)
+[2020-02-11T13:12:04.756] [hss] [system] [startup] Setting shutdown event
+[2020-02-11T13:12:04.756] [hss] [system] [startup] exiting
+[2020-02-11T13:14:24.648] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-11T13:14:24.648] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-11T13:14:24.648] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-11T13:14:24.927] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-11T13:14:24.928] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-11T13:14:24.928] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-11T13:14:24.928] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-11T13:14:24.930] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-11T13:14:24.930] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-11T13:16:11.436] [hss] [system] [startup] Caught signal (2)
+[2020-02-11T13:16:11.436] [hss] [system] [startup] Setting shutdown event
+[2020-02-11T13:16:11.436] [hss] [system] [startup] exiting
+[2020-02-11T13:16:21.062] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-11T13:16:21.062] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-11T13:16:21.062] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-11T13:16:21.170] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-11T13:16:21.171] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-11T13:16:21.171] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-11T13:16:21.171] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-11T13:16:21.172] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-11T13:16:21.172] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-11T13:19:41.304] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-11T13:19:41.304] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-11T13:19:41.304] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-11T13:19:41.544] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-11T13:19:41.545] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-11T13:19:41.545] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-11T13:19:41.545] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-11T13:19:41.547] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-11T13:19:41.548] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-11T13:26:21.259] [hss] [system] [startup] Caught signal (2)
+[2020-02-11T13:26:21.259] [hss] [system] [startup] Setting shutdown event
+[2020-02-11T13:26:21.259] [hss] [system] [startup] exiting
+[2020-02-11T13:31:46.393] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-11T13:31:46.393] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-11T13:31:46.393] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-11T13:31:46.541] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-11T13:31:46.541] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-11T13:31:46.542] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-11T13:31:46.542] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-11T13:31:46.543] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-11T13:31:46.543] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-11T13:37:45.556] [hss] [system] [startup] Caught signal (2)
+[2020-02-11T13:37:45.556] [hss] [system] [startup] Setting shutdown event
+[2020-02-11T13:37:45.556] [hss] [system] [startup] exiting
+[2020-02-15T15:52:21.563] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T15:52:21.563] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T15:52:21.563] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T15:52:21.849] [hss] [system] [info] COUNT: 1 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.869] [hss] [system] [info] COUNT: 2 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.872] [hss] [system] [info] COUNT: 3 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.873] [hss] [system] [info] COUNT: 4 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.876] [hss] [system] [info] COUNT: 5 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.878] [hss] [system] [info] COUNT: 6 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.881] [hss] [system] [info] COUNT: 7 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.883] [hss] [system] [info] COUNT: 8 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.885] [hss] [system] [info] COUNT: 9 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.887] [hss] [system] [info] COUNT: 10 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.889] [hss] [system] [info] COUNT: 11 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.892] [hss] [system] [info] COUNT: 12 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.894] [hss] [system] [info] COUNT: 13 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.897] [hss] [system] [info] COUNT: 14 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.899] [hss] [system] [info] COUNT: 15 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.901] [hss] [system] [info] COUNT: 16 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.903] [hss] [system] [info] COUNT: 17 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.904] [hss] [system] [info] COUNT: 18 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.906] [hss] [system] [info] COUNT: 19 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T15:52:21.908] [hss] [system] [info] COUNT: 20 IMSI: À†¤_ÿ KEY: ğÁÜU OPC: ÀÁÜU NEW OPC: ÁÜU
+[2020-02-15T17:06:35.039] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T17:06:35.039] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T17:06:35.039] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T17:06:35.577] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T17:06:35.577] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T17:06:35.577] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T17:06:35.577] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T17:06:35.578] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T17:06:35.578] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T18:25:36.105] [hss] [system] [startup] Caught signal (2)
+[2020-02-15T18:25:36.105] [hss] [system] [startup] Setting shutdown event
+[2020-02-15T18:25:36.105] [hss] [system] [startup] exiting
+[2020-02-15T18:25:41.896] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T18:25:41.896] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T18:25:41.896] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T18:25:42.050] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T18:25:42.050] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T18:25:42.050] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T18:25:42.050] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T18:25:42.052] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T18:25:42.052] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T18:26:06.347] [hss] [system] [startup] Caught signal (2)
+[2020-02-15T18:26:06.347] [hss] [system] [startup] Setting shutdown event
+[2020-02-15T18:26:06.347] [hss] [system] [startup] exiting
+[2020-02-15T18:27:08.377] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T18:27:08.377] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T18:27:08.377] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T18:27:08.608] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T18:27:08.608] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T18:27:08.608] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T18:27:08.608] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T18:27:08.610] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T18:27:08.610] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T18:27:30.126] [hss] [system] [startup] Caught signal (2)
+[2020-02-15T18:27:30.126] [hss] [system] [startup] Setting shutdown event
+[2020-02-15T18:27:30.126] [hss] [system] [startup] exiting
+[2020-02-15T18:37:29.618] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T18:37:29.618] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T18:37:29.618] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T18:37:30.379] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T18:37:30.379] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T18:37:30.379] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T18:37:30.379] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T18:37:30.380] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T18:37:30.380] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T18:47:09.202] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T18:47:09.202] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T18:47:09.202] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T18:47:09.434] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T18:47:09.434] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T18:47:09.434] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T18:47:09.434] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T18:47:09.435] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T18:47:09.435] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T18:47:50.351] [hss] [system] [startup] Caught signal (2)
+[2020-02-15T18:47:50.351] [hss] [system] [startup] Setting shutdown event
+[2020-02-15T18:47:50.351] [hss] [system] [startup] exiting
+[2020-02-15T18:48:55.604] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T18:48:55.604] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T18:48:55.604] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T18:48:55.854] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T18:48:55.854] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T18:48:55.854] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T18:48:55.854] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T18:48:55.855] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T18:48:55.855] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T18:54:47.492] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T18:54:47.492] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T18:54:47.492] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T18:54:47.769] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T18:54:47.769] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T18:54:47.769] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T18:54:47.769] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T18:54:47.771] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T18:54:47.771] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T18:56:07.160] [hss] [system] [startup] Caught signal (2)
+[2020-02-15T18:56:07.160] [hss] [system] [startup] Setting shutdown event
+[2020-02-15T18:56:07.160] [hss] [system] [startup] exiting
+[2020-02-15T21:00:19.387] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T21:00:19.387] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T21:00:19.387] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T21:00:19.758] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T21:00:19.758] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T21:00:19.756] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T21:00:19.756] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T21:00:19.756] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T21:00:19.756] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T21:49:11.381] [hss] [system] [startup] Caught signal (2)
+[2020-02-15T21:49:11.381] [hss] [system] [startup] Setting shutdown event
+[2020-02-15T21:49:11.381] [hss] [system] [startup] exiting
+[2020-02-15T21:51:05.764] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T21:51:05.764] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T21:51:05.764] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T21:51:05.895] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T21:51:05.895] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T21:51:05.895] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T21:51:05.895] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T21:51:05.896] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T21:51:05.896] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T21:51:29.076] [hss] [system] [startup] Caught signal (2)
+[2020-02-15T21:51:29.076] [hss] [system] [startup] Setting shutdown event
+[2020-02-15T21:51:29.076] [hss] [system] [startup] exiting
+[2020-02-15T21:58:18.208] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T21:58:18.208] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T21:58:18.208] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T21:58:18.968] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T21:58:18.968] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T21:58:18.968] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T21:58:18.968] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T21:58:18.969] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T21:58:18.969] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-15T22:04:47.306] [hss] [system] [startup] Caught signal (2)
+[2020-02-15T22:04:47.306] [hss] [system] [startup] Setting shutdown event
+[2020-02-15T22:04:47.306] [hss] [system] [startup] exiting
+[2020-02-15T22:09:10.598] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-15T22:09:10.598] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-15T22:09:10.598] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-15T22:09:10.830] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-15T22:09:10.830] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-15T22:09:10.830] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-15T22:09:10.830] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-15T22:09:10.831] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-15T22:09:10.831] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-16T11:37:26.569] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-16T11:37:26.569] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-16T11:37:26.569] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-16T11:37:26.888] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-16T11:37:26.888] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-16T11:37:26.888] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-16T11:37:26.888] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-16T11:37:26.892] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-16T11:37:26.892] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-17T21:33:44.451] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-17T21:33:44.451] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-17T21:33:44.451] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-17T21:33:45.305] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-17T21:33:45.306] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-17T21:33:45.306] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-17T21:33:45.306] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-17T21:33:45.309] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-17T21:33:45.309] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-17T21:33:46.701] [hss] [system] [startup] Caught signal (2)
+[2020-02-17T21:33:46.701] [hss] [system] [startup] Setting shutdown event
+[2020-02-17T21:33:46.701] [hss] [system] [startup] exiting
+[2020-02-18T08:50:13.046] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-18T08:50:13.046] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-18T08:50:13.046] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-18T08:50:13.303] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-18T08:50:13.303] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-18T08:50:13.303] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-18T08:50:13.303] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-18T08:50:13.304] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-18T08:50:13.304] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-18T10:07:17.483] [hss] [system] [startup] Caught signal (2)
+[2020-02-18T10:07:17.483] [hss] [system] [startup] Setting shutdown event
+[2020-02-18T10:07:17.483] [hss] [system] [startup] exiting
+[2020-02-19T09:43:45.372] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-19T09:43:45.372] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-19T09:43:45.372] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-19T09:43:46.394] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-19T09:43:46.395] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-19T09:43:46.395] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-19T09:43:46.395] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-19T09:43:46.398] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-19T09:43:46.398] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-19T09:54:28.827] [hss] [system] [startup] Caught signal (2)
+[2020-02-19T09:54:28.827] [hss] [system] [startup] Setting shutdown event
+[2020-02-19T09:54:28.827] [hss] [system] [startup] exiting
+[2020-02-19T09:56:52.813] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-19T09:56:52.813] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-19T09:56:52.813] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-19T09:56:53.023] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-19T09:56:53.023] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-19T09:56:53.023] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-19T09:56:53.023] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-19T09:56:53.026] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-19T09:56:53.026] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-19T10:09:58.713] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-19T10:09:58.713] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-19T10:09:58.713] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-19T10:09:58.907] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-19T10:09:58.907] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-19T10:09:58.907] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-19T10:09:58.907] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-19T10:09:58.908] [hss] [system] [startup] exiting
+[2020-02-19T10:13:54.464] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-19T10:13:54.464] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-19T10:13:54.464] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-19T10:13:54.536] [hss] [system] [info] COUNT: 1 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.539] [hss] [system] [info] COUNT: 2 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.541] [hss] [system] [info] COUNT: 3 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.543] [hss] [system] [info] COUNT: 4 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.546] [hss] [system] [info] COUNT: 5 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.549] [hss] [system] [info] COUNT: 6 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.551] [hss] [system] [info] COUNT: 7 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.553] [hss] [system] [info] COUNT: 8 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.557] [hss] [system] [info] COUNT: 9 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.559] [hss] [system] [info] COUNT: 10 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.562] [hss] [system] [info] COUNT: 11 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.566] [hss] [system] [info] COUNT: 12 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.574] [hss] [system] [info] COUNT: 13 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.579] [hss] [system] [info] COUNT: 14 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.582] [hss] [system] [info] COUNT: 15 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.584] [hss] [system] [info] COUNT: 16 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.586] [hss] [system] [info] COUNT: 17 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.589] [hss] [system] [info] COUNT: 18 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.590] [hss] [system] [info] COUNT: 19 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:13:54.593] [hss] [system] [info] COUNT: 20 IMSI: 0A9ãü KEY: ŠëV OPC: `ŠëV NEW OPC: 0ŠëV
+[2020-02-19T10:29:33.685] [hss] [system] [startup] Caught signal (2)
+[2020-02-19T10:29:33.685] [hss] [system] [startup] Setting shutdown event
+[2020-02-19T10:29:33.685] [hss] [system] [startup] exiting
+[2020-02-19T10:29:40.627] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-19T10:29:40.627] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-19T10:29:40.627] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-19T10:29:40.845] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-19T10:29:40.845] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-19T10:29:40.845] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-19T10:29:40.845] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-19T10:29:40.846] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-19T10:29:40.846] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-19T10:38:12.597] [hss] [system] [startup] Caught signal (2)
+[2020-02-19T10:38:12.597] [hss] [system] [startup] Setting shutdown event
+[2020-02-19T10:38:12.597] [hss] [system] [startup] exiting
+[2020-02-19T10:48:26.148] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-19T10:48:26.148] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-19T10:48:26.148] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-19T10:48:26.356] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-19T10:48:26.356] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-19T10:48:26.356] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-19T10:48:26.356] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-19T10:48:26.359] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-19T10:48:26.359] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-24T10:17:37.537] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-24T10:17:37.537] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-24T10:17:37.537] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-24T10:17:38.276] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-24T10:17:38.276] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-24T10:17:38.276] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-24T10:17:38.276] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-24T10:17:38.278] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-24T10:17:38.278] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-24T10:44:36.078] [hss] [system] [startup] Caught signal (2)
+[2020-02-24T10:44:36.078] [hss] [system] [startup] Setting shutdown event
+[2020-02-24T10:44:36.078] [hss] [system] [startup] exiting
+[2020-02-24T19:29:26.313] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-24T19:29:26.313] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-24T19:29:26.313] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-24T19:29:27.315] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-24T19:29:27.316] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-24T19:29:27.316] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-24T19:29:27.316] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-24T19:29:27.317] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-24T19:29:27.317] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-24T20:08:34.751] [hss] [system] [startup] Caught signal (2)
+[2020-02-24T20:08:34.751] [hss] [system] [startup] Setting shutdown event
+[2020-02-24T20:08:34.751] [hss] [system] [startup] exiting
+[2020-02-26T10:49:55.502] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-26T10:49:55.502] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-26T10:49:55.502] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-26T10:49:56.407] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-26T10:49:56.407] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-26T10:49:56.407] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-26T10:49:56.408] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-26T10:49:56.407] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-26T10:49:56.408] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-26T10:54:33.186] [hss] [system] [startup] Caught signal (2)
+[2020-02-26T10:54:33.186] [hss] [system] [startup] Setting shutdown event
+[2020-02-26T10:54:33.186] [hss] [system] [startup] exiting
+[2020-02-26T11:11:26.738] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-26T11:11:26.738] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-26T11:11:26.738] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-26T11:11:26.911] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-26T11:11:26.911] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-26T11:11:26.911] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-26T11:11:26.911] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-26T11:11:26.913] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-26T11:11:26.913] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-26T21:26:52.473] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-26T21:26:52.473] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-26T21:26:52.473] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-26T21:26:53.203] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-26T21:26:53.203] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-26T21:26:53.203] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-26T21:26:53.203] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-26T21:26:53.205] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-26T21:26:53.205] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-26T21:46:14.731] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-26T21:46:14.731] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-26T21:46:14.731] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-26T21:46:14.934] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-26T21:46:14.934] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-26T21:46:14.934] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-26T21:46:14.934] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-26T21:46:14.935] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-26T21:46:14.935] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-27T10:36:05.990] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-27T10:36:05.990] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-27T10:36:05.990] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-27T10:36:06.750] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-27T10:36:06.750] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-27T10:36:06.750] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-27T10:36:06.750] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-27T10:36:06.751] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-27T10:36:06.751] [hss] [system] [startup] Started OSS  server on port [9082]
+[2020-02-27T10:48:12.585] [hss] [system] [startup] Caught signal (2)
+[2020-02-27T10:48:12.585] [hss] [system] [startup] Setting shutdown event
+[2020-02-27T10:48:12.585] [hss] [system] [startup] exiting
+[2020-02-27T10:53:15.106] [hss] [system] [startup] signal handler registered for SIGINT
+[2020-02-27T10:53:15.106] [hss] [system] [startup] signal handler registered for SIGTERM
+[2020-02-27T10:53:15.106] [hss] [system] [startup] signal handler registered for SIGRTMIN
+[2020-02-27T10:53:15.299] [hss] [s6as6d] [startup] Registering s6as6d command handlers
+[2020-02-27T10:53:15.300] [hss] [s6as6d] [startup] Registering UPLR command handler
+[2020-02-27T10:53:15.300] [hss] [s6as6d] [startup] Registering AUIR command handler
+[2020-02-27T10:53:15.300] [hss] [s6as6d] [startup] Registering PUUR command handler
+[2020-02-27T10:53:15.301] [hss] [system] [startup] Started REST server on port [9081]
+[2020-02-27T10:53:15.301] [hss] [system] [startup] Started OSS  server on port [9082]

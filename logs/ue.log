@@ -1,0 +1,131 @@
+[CONFIG] get parameters from libconfig ../ci-scripts/conf_files/ue.nfapi.conf , debug flags: 0x00000000
+[CONFIG] function config_libconfig_init returned 0
+[CONFIG] config module libconfig loaded
+[LIBCONFIG] config: 1/1 parameters successfully set, (1 to default value)
+# /dev/cpu_dma_latency set to 0us
+[LIBCONFIG] log_config: 3/3 parameters successfully set, (1 to default value)
+[LIBCONFIG] log_config: 38/38 parameters successfully set, (32 to default value)
+[LIBCONFIG] log_config: 38/38 parameters successfully set, (38 to default value)
+[LIBCONFIG] log_config: 15/15 parameters successfully set, (15 to default value)
+[LIBCONFIG] log_config: 15/15 parameters successfully set, (15 to default value)
+log init done
+Reading in command-line options
+[LIBCONFIG] (root): 19/19 parameters successfully set, (16 to default value)
+[LIBCONFIG] (root): 4/4 parameters successfully set, (4 to default value)
+Running with 64 UE instances
+NFAPI_MODE value: 3 
+[LIBCONFIG] TTracer: 4/4 parameters successfully set, (4 to default value)
+CPU Freq is 2.394743 
+ITTI init
+[0m[TMR]   Starting itti queue: TASK_UNKNOWN as task 0
+[0m[0m[TMR]   Starting itti queue: TASK_TIMER as task 1
+[0m[0m[TMR]   Starting itti queue: TASK_L2L1 as task 2
+[0m[0m[TMR]   Starting itti queue: TASK_BM as task 3
+[0m[0m[TMR]   Starting itti queue: TASK_PHY_ENB as task 4
+[0m[0m[TMR]   Starting itti queue: TASK_MAC_ENB as task 5
+[0m[0m[TMR]   Starting itti queue: TASK_RLC_ENB as task 6
+[0m[0m[TMR]   Starting itti queue: TASK_RRC_ENB_NB_IoT as task 7
+[0m[0m[TMR]   Starting itti queue: TASK_PDCP_ENB as task 8
+[0m[0m[TMR]   Starting itti queue: TASK_RRC_ENB as task 9
+[0m[0m[TMR]   Starting itti queue: TASK_RAL_ENB as task 10
+[0m[0m[TMR]   Starting itti queue: TASK_S1AP as task 11
+[0m[0m[TMR]   Starting itti queue: TASK_X2AP as task 12
+[0m[0m[TMR]   Starting itti queue: TASK_SCTP as task 13
+[0m[0m[TMR]   Starting itti queue: TASK_ENB_APP as task 14
+[0m[0m[TMR]   Starting itti queue: TASK_FLEXRAN_AGENT as task 15
+[0m[0m[TMR]   Starting itti queue: TASK_PHY_UE as task 16
+[0m[0m[TMR]   Starting itti queue: TASK_MAC_UE as task 17
+[0m[0m[TMR]   Starting itti queue: TASK_RLC_UE as task 18
+[0m[0m[TMR]   Starting itti queue: TASK_PDCP_UE as task 19
+[0m[0m[TMR]   Starting itti queue: TASK_RRC_UE as task 20
+[0m[0m[TMR]   Starting itti queue: TASK_NAS_UE as task 21
+[0m[0m[TMR]   Starting itti queue: TASK_RAL_UE as task 22
+[0m[0m[TMR]   Starting itti queue: TASK_MSC as task 23
+[0m[0m[TMR]   Starting itti queue: TASK_GTPV1_U as task 24
+[0m[0m[TMR]   Starting itti queue: TASK_UDP as task 25
+[0m[LIBCONFIG] opt: 3/3 parameters successfully set, (3 to default value)
+[0m[OPT]   OPT disabled
+[0mPDCP netlink
+[NETLINK]Opened socket with fd 58
+RRC control socket
+PDCP PC5S socket
+reported resolution = 1 ns
+[0m[HW]   Version: Branch: HEAD Abrev. Hash: f7a2965 Date: Thu Jan 31 14:35:23 2019 +0100
+[0m[0m[RRC]   Listening to incoming connection from ProSe App 
+[0mCPU Freq is 2.394973 
+NO deadline scheduler
+[0m[HW]   CPU Affinity of main() function is...  CPU_0  CPU_1 
+[0m[0m[TMR]   Created Posix thread TASK_NAS_UE
+[0m[0m[TMR]   Created Posix thread TASK_RRC_UE
+[0m[LIBCONFIG] L1s.[0]: 9/9 parameters successfully set, (0 to default value)
+configure_nfapi_pnf() PNF
+
+
+
+
+
+configure_nfapi_pnf() VNF:127.0.0.2:50001 PNF_PHY[addr:127.0.0.1 UDP:tx_addr:127.0.0.2:50011 rx:50010]
+1979.866161: 0x04: 3436480640: [PNF] Creating PNF NFAPI start thread configure_nfapi_pnf
+ITTI tasks created
+1979.866337: 0x04: 3253761792: [PNF] IN PNF NFAPI start thread pnf_start_thread
+(null)(null)[PHY]   
+(null)(null)(null)[PHY]   Starting P5 PNF connection to VNF at :8189418
+(null)[0m[NAS]    /home/ubuntu/ue_folder/openair3/NAS/UE/API/USER/user_api.c:143  USR-API   - User's UDP socket 61 is BOUND to RANoai/10000
+[0m[0m[NAS]    /home/ubuntu/ue_folder/openair3/NAS/UE/API/USER/user_api.c:166  USR-API   - Notification handlers successfully registered
+[0m[0m[NAS]    /home/ubuntu/ue_folder/openair3/NAS/UE/EMM/emm_main.c:203  EMM-MAIN  - USIM application data successfully read
+[0m[0m[NAS]    /home/ubuntu/ue_folder/openair3/NAS/UE/EMM/emm_main.c:248  EMM-MAIN  - usim_api_k: 68 74 73 69 69 20 20 73 79 6d 4b 20 79 65 0a 73
+[0m[0m[NAS]    /home/ubuntu/ue_folder/openair3/NAS/UE/EMM/emm_main.c:249  EMM-MAIN  - opc:        10 06 02 0f 0a 47 8b f6 b6 99 f1 5c 06 2e 42 b3
+[0m[0m[NAS]    /home/ubuntu/ue_folder/openair3/NAS/UE/EMM/emm_main.c:403  EMM-MAIN  - EMM data successfully read
+[0m[0m[NAS]    /home/ubuntu/ue_folder/openair3/NAS/UE/API/USER/user_api.c:143  USR-API   - User's UDP socket 62 is BOUND to RANoai/10001
+[0m[0m[NAS]    /home/ubuntu/ue_folder/openair3/NAS/UE/API/USER/user_api.c:166  USR-API   - Notification handlers successfully registered
+[0m[0m[1;31m[NAS]    /home/ubuntu/ue_folder/openair3/NAS/UE/nas_user.c:167  USR-MAIN  - Failed to read non volatile memory
+[0m[0m[PHY]   
+[0m/home/ubuntu/ue_folder/targets/RT/USER/lte-uesoftmodem.c:307 signal_handler() Exiting OAI softmodem: Received linux signal Aborted...
+
+(null)(null)[PHY]   PNF Setting the SCTP_INITMSG
+(null)(null)(null)[PHY]   P5 socket created...
+(null)(null)(null)[PHY]   connect succeeded...
+(null)(null)(null)[PHY]   After connect loop
+(null)(null)(null)[PHY]   Association ID = -1041208528
+(null)(null)(null)[PHY]   Receiver window size = -1041208528
+(null)(null)(null)[PHY]   In Streams = -1041208528
+(null)(null)(null)[PHY]   Out Streams = -1041208528
+(null)(null)(null)[PHY]   Socket 
+(null)(null)(null)[PHY]   PNF_PARAM.request received
+(null)[PNF] pnf param request
+(null)(null)[PHY]   PNF_CONFIG.request received
+(null)[PNF] pnf config request
+[PNF] pnf config request assigned phy_id 1 to phy_config_index 0
+[PNF] Sent pnf_config_resp
+(null)(null)[PHY]   PNF_START.request Received
+(null)Received NFAPI_PNF_START_REQUEST
+[PNF] Sent NFAPI_PNF_START_RESP
+(null)(null)[PHY]   PARAM.request received
+(null)[PNF] Received NFAPI_PARAM_REQUEST phy_id:1
+[PNF] Sent NFAPI_PARAM_RESPONSE phy_id:1 number_of_tlvs:2
+[PNF] param request .. exit
+(null)(null)[PHY]   CONFIG.request received
+(null)[PNF] Received NFAPI_CONFIG_REQ phy_id:1
+Phy_info:Timing window:30 NFAPI_CONFIG:timing_window:30
+timing info mode:3
+timing info period provided value:128
+[0m[34m[PHY]   () NFAPI_RF_CONFIG_DL_CHANNEL_BANDWIDTH_TAG N_RB_DL:8189418
+[0m(null)(null)[PHY]   () earfcn:8189418 dl_carrierFreq:16 ul_CarrierFreq:3253757600 band:3253757408 N_RB_DL:1254070272
+(null)(null)(null)[PHY]   () frame_type:8189418
+(null)[0m[1;31m[PHY]   config_request() NFAPI_PHICH_CONFIG_PHICH_POWER_OFFSET_TAG tag:22 not supported
+[0m[PNF] 1 vnf p7 127.0.0.2:50001 timing 30 3 128
+[PNF] Sent NFAPI_CONFIG_RESPONSE phy_id:1
+(null)(null)[PHY]   () START.request received state:8189418
+(null)[PNF] Received NFAPI_START_REQ phy_id:1
+[PNF] P7 remote:127.0.0.2:50001 local:127.0.0.1:32123
+subframe_buffer_size configured using phy_info->timing_window:30
+(null)(null)[PHY]   [PNF] Creating P7 thread 
+(null)(null)(null)[PHY]   [PNF] Calling l1_north_init_eNB() 
+(null)(null)(null)[PHY]   [PNF] DJP - HACK - Set p7_config global ready for subframe ind
+(null)(null)(null)[PHY]   [PNF] P7 THREAD 
+(null)(null)(null)[PHY]   
+(null)(null)(null)[PHY]   PNF P7 socket created (-1051771952)...
+(null)(null)(null)[PHY]   PNF P7 binding -1051771952 too HÉÏHç5€≤:16
+(null)(null)(null)[PHY]   PNF P7 bind succeeded...
+(null)NFAPI MODE:UE_STUB_PNF
+waiting for NFAPI PNF connection and population of global structure (main?)
