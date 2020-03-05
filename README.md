@@ -34,11 +34,22 @@ OAI platform can be used in several different configurations involving commercia
 * OAI UE ↔ Commercial eNB + Commercial EPC
 
 ## 2. Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. Please go to the [Installation Process](https://github.com/jrmejiaa/EVERIS_OAI/wiki/Getting-Started) to see step by step. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### 2.1. Prerequisites
+* Knowledge about Communications and its protocols to work with a 4G LTE and 5G Network. There is a section in this wiki who can help with this requirement. If you need, please go to [Should Know](https://github.com/jrmejiaa/EVERIS_OAI/wiki/Should-Know)
+* **Hardware Requirements:** According to [OAI Requirements Site](https://gitlab.eurecom.fr/oai/openairinterface5g/wikis/OpenAirSystemRequirements) it is necessary a PC who has an Intel processor to work the eNB or UE targets. This requirement is due to optimized DSP functions
+which make heavy use of integer SIMD instructions (SSE, SSE2, SSS3, SSE4, and AVX2). It recommends to work with the Family `Generation 3/4/5/6 Intel Core i5,i7`.
+* **Software Requirements:** The OpenAir-CN EPC component should work on a Ubuntu Bionic according to the last information in the wiki [OAI EPC Instalation](https://github.com/OPENAIRINTERFACE/openair-cn/wiki/OpenAirSoftwareSupport), besides it needs some kernel changes to work properly, therefore it is recommended to work in a virtual machine. However for the eNB and UE OAI, it needs a Ubuntu Xenial with an specific low-latency kernel, those steps are explained in the Gitlab of the project. Those steps are found in the UE and eNB installation process. 
+
+### 2.2. Installing
+
+* Please go to the [EPC Installation Process](https://github.com/jrmejiaa/EVERIS_OAI/wiki/EPC-Installation) to see step by step to make your EPC machine working. 
+
+* Please go to the [UE+eNB with NFAPI Simulator](https://github.com/jrmejiaa/EVERIS_OAI/wiki/UE-and-eNB-with-L2-NFAPI-Simulation) to see step by step to make your UE and eNB working.
 
 ## 3. Deployment
-The running application after the installation can be seen here in the [Running EPC](https://github.com/jrmejiaa/EVERIS_OAI/wiki/Deployment)
+It uses the EPC Core of OAI with the UE+eNB to make a deployment and to attach a UE with the EPC and see its behavior. In this link you can see here [Deployment OAI using NFAPI Simulator](https://github.com/jrmejiaa/EVERIS_OAI/wiki/Deployment-OAI-using-NFAPI-Simulator)
 
 ## 4. License
 The source code is mainly written under the [Apache V2.0 License](http://www.apache.org/licenses/LICENSE-2.0). The text for Apache V2.0 License is also available under LICENSE file in the same directory. For more details on third party software, please read the NOTICE file in the same directory.
-
